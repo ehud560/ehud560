@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Ehud
 #### I am a Fullstack develop
-![I am a Fullstack develop](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I made this project just for my own website. to make more work for me 
 
 Skills: TS / REACT / JS / HTML / CSS / Bootstrap / SASS
